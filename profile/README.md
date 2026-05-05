@@ -9,5 +9,6 @@ Specialized AI systems practice based in Berkeley.
 - [POC](https://channingway.ai/poc)
 - [ORCID · 0009-0004-8302-8435](https://orcid.org/0009-0004-8302-8435)
 - [LinkedIn · @channing-way](https://www.linkedin.com/company/channing-way/)
+- [Substack · channingway](https://channingway.substack.com)
 - [Crunchbase · channing-way](https://www.crunchbase.com/organization/channing-way)
 - [X · @channingway_x](https://x.com/channingway_x)
